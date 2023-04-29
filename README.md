@@ -1,18 +1,25 @@
-# Professional README Generator
+# Professional README Generator ![licence](https://img.shields.io/badge/license-isc-green)
 
-##  Task
+## Table of Content
+-[project description](#Description)
+-[usage](#Usage)
+-[contributing](#Contributing)
+-[installation](#Installation)
+-[Questions](#Questions)
+-[License](#License)
 
-Ive got the solution to avoid creating a read me file everytime. with this code you will be able to answer to the promp question in the console and the read me file will be generated. You will have a high-quality README for the app! Yay! The promp will ask you what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions&mdash;which will increas the likelihood that other developers will contribute to the success of the project. 
+## Description
 
-You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
+I've got the solution to avoid creating a read me file everytime. You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
 
-## User Story
+## Usage
 
-```md
-AS A developer
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project
-```
+You will have a high-quality README for the app! Yay! The prompt will ask you what the app is for, how to use the app, how to install it, how to report issues.
+## Installation
+
+ with this code you will be able to answer to the prompt question in the console and the read me file will be generated.
+## Contributing
+make contributions which will increase the likelihood that other developers will contribute to the success of the project. 
 
 ## Pictures 
 ![picture](./pictures/questions.png)
