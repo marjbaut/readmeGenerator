@@ -15,6 +15,6 @@ SO THAT I can quickly create a professional README for a new project
 ```
 
 ## Pictures 
-![picture](../pictures/questions.png)
-![picture](../pictures/question.png)
-![outcome](../pictures/outcome.png)
+![picture](./pictures/questions.png)
+![picture](./pictures/question.png)
+![outcome](./pictures/outcome.png)
